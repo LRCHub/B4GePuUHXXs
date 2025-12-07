@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "そばにいるよ",
+  "base_artist": "Uru",
+  "createdAt": "2025-12-07T12:02:24.131621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/01_そばにいるよ_Uru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/02_そばにいるよ_Uru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "ELISA",
+      "has_synced": true,
+      "path": "select/03_そばにいるよ_ELISA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "ELISA",
+      "has_synced": true,
+      "path": "select/04_そばにいるよ_ELISA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "そばにいるよ - Sobaniiruyo",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/05_そばにいるよ_-_Sobaniiruyo_Uru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/06_そばにいるよ_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "前田亘輝",
+      "has_synced": true,
+      "path": "select/07_そばにいるよ_前田亘輝.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/08_そばにいるよ_Uru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "ELISA",
+      "has_synced": true,
+      "path": "select/09_そばにいるよ_ELISA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "そばにいるよ～優しきエピローグ",
+      "artist": "林原めぐみ,白鳥由里,平松晶子",
+      "has_synced": false,
+      "path": "select/10_そばにいるよ~優しきエピローグ_林原めぐみ,白鳥由里,平松晶子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "そばにいるよ",
+      "artist": "宇宙まお",
+      "has_synced": false,
+      "path": "select/11_そばにいるよ_宇宙まお.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そばにいるよ",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_そばにいるよ_Uru.txt"
+    }
+  ]
+}
